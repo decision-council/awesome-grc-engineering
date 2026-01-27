@@ -1,4 +1,10 @@
-# Awesome GRC Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<p align="center">
+  <img src="logo.svg" alt="Awesome GRC Engineering" width="400">
+</p>
+
+<p align="center">
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+</p>
 
 > Curated resources for GRC engineering: automation, policy as code, and continuous compliance
 

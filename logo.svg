@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="200" rx="12" fill="url(#bg)"/>
+  <text x="400" y="95" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="700" fill="#ffffff" text-anchor="middle">Awesome GRC Engineering</text>
+  <text x="400" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="20" fill="#8892b0" text-anchor="middle">Automation | Policy as Code | Continuous Compliance</text>
+</svg>
